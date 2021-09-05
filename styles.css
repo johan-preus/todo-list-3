@@ -1,0 +1,13 @@
+.container-centered {
+    display: flex;
+    justify-content: center;
+}
+
+#todo-list>li>p:hover{
+    background-color: red;
+}
+
+p {
+    display: inline;
+    cursor: pointer;
+}
